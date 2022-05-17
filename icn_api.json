@@ -1,7 +1,17 @@
-{
-  "employees": [
-    { "firstName": "John", "lastName": "Doe" },
-    { "firstName": "Anna", "lastName": "Smith" },
-    { "firstName": "Peter", "lastName": "Jones" }
-  ]
-}
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi"
+  }
+]
